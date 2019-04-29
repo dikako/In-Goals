@@ -82,3 +82,15 @@ Version control system memungkinkan anda untuk melacak riwayat kumpulan file dan
 Kumpulan file dan riwayat lengkapnya disimpan di repositori.
 
 Proses pembuatan berbagai versi (snapshot) dalam repositori digambarkan dalam grafik berikut.
+
+
+
+#Jenkins
+
+
+[English]
+Jenkins is an open source Continuous Integration tool. However, it's not limited to Continuous Integration alone. Jenkins is supported by a large number of plugins that enhance its capability. The Jenkins tool is written in java and so are its plugins. The tool has a minimalistic GUI that can enhanced using specific plugins if requared (Nikhil Pathania, 2016:47).
+
+
+[Indonesia]
+Jenkins adalah tool open source yang digunakan untuk Continous Integration, namun tidak terbatas pada Continuous integration saja. Jenkins didukung oleh sejumlah besar plugin yang meningkatkan kemampuannya. Jenkins ditulis dalam bahasa javadan begitu juga untuk pluginnya. Jenkins memiliki GUI minimalis yang dapat ditingkatan menggunakan lgin tertentu jika diperlukan (Nikhil Pathania, 2016:47).
