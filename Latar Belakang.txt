@@ -1,0 +1,9 @@
+#Latar Belakang 
+
+Perkembanag teknologi yang terus berkembang pesat membuat kebutuhan akan permintaan aplikasi semakin meningkat, tentu saja itu memaksa banyak perusahaan agar berkerja lebih cepat supaya permintaan proyek aplikasi untuk client dapat terselesaikan sesuai waktu yang telah ditentukan.
+
+Dalam pembuatan sebuah aplikasi yang dibutuhkan bukan hanya ketepatan waktu tetapi juga kesesuaian kinerja fungsi yang dibutuhkan dalam aplikasi, tentu saja itu memerlukan kerjasama antar tim yang bagus.
+
+Version Control System adalah metode yang dapat digunakan untuk mengintegrasikan seluruh tim kedalam satu integrasi repositori bersama, sehingga tim dapat melakukan kolaborasi antar tim serta perubahan yang terjadi pada file proyek aplikasi dapat terpantau dan tersimpan dalam database repositori.
+
+Selain Version Control System dibutuhkan juga otomatisasi
