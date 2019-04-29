@@ -3,5 +3,61 @@
 [English]
 Continuous Integration is a DevOps best practice wherein developers continuously integrate their code in small logical units to a common shared repository with regularity (for example, once a day). The advantage of such a process is the transparency of the code's  quality and fitness for its intended purpose. Otherwise, bulk code integration after the lapse of a fixed time period could expose many defects or integraion challenges which could be expensive to resolve.
 
+To achieve continuous inegration, there are few prerequisites to be implemented, as follows:
+1. Using a version controller Service repository for source code
+2. Regular code check in schedule
+3. Automate testing for the code changes
+4. Automate the build
+5. Deploy build in preproduction
+
+The benefit of continuous integration are as follows :
+1. Availability of latest code as we commit early and often 
+2. Build cycles are faster as build issue are exposed early with check-ins
+3. Transparency in the build process means better ownership and lesser defects
+4. Automating the deployment process leads to quicker turnaround
+
+Some continuous integration tools that are available are as follows :
+1. Jenkins
+2. TeamCity
+3. Travis
+4. Go CD
+5. Buddy
+6. Bitbucket
+7. Chef
+8. Microsoft Teamcenter
+9. CruiseControl
+10. Bamboo
+11. Gitlab CI
+12. CircleCI
+13. Codeship
+
 [Indonesia]
 Continuous Integration adalah praktik terbaik dalam penerapan konsep DevOps dimana pengembang mengintegrasikan kode mereka dalam unit logis kecil ke repository bersama dengan keteraturan (misalnya, sekali sehari). Keuntungan dari proses tersebut adalah transparansi kualitas dan kesesuaian kode untuk tujuan yang dimaksud. Kalau tidak, integrasi kode massal setelah selang waktu yang tetap dapat memaparkan banyak cacat atau masalah yang lebih sulit untuk diselesaikan (Sricharan Vadapalli, 2018:25).
+
+Untuk mencapai continuous integration, ada beberapa syarat yang harus diimlemetasikan, sebagai berikut :
+1. Menggunakan Version Controller Service untuk source code
+2. Jadwal check in kode reguler
+3. Perubahan source code diuji secara otomatis
+4. Mengotomatiskan build
+5. Deploy build in preproduction
+
+Manfaat continuous integration adalah sebagai berikut :
+1. Ketersedian kode terbaru setiap kali melakukan commit source code
+2. Siklus build leebih cepat karena masalah build terpapar lebih awal dengan check-in
+3. Transparansi dalam proses build meminimalisir cacat program
+4. Mengotomatiskan proses deployment dengan lebih cepat
+
+Beberapa tools continuous integration :
+1. Jenkins
+2. TeamCity
+3. Travis
+4. Buka CD
+5. Sobat
+6. Bitbucket
+7. Koki
+8. Microsoft Teamcenter
+9. CruiseControl
+10. Bambu
+11. Gitlab CI
+12. CircleCI
+13. Codeship
