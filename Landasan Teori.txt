@@ -31,6 +31,8 @@ Some continuous integration tools that are available are as follows :
 12. CircleCI
 13. Codeship
 
+
+
 [Indonesia]
 Continuous Integration adalah praktik terbaik dalam penerapan konsep DevOps dimana pengembang mengintegrasikan kode mereka dalam unit logis kecil ke repository bersama dengan keteraturan (misalnya, sekali sehari). Keuntungan dari proses tersebut adalah transparansi kualitas dan kesesuaian kode untuk tujuan yang dimaksud. Kalau tidak, integrasi kode massal setelah selang waktu yang tetap dapat memaparkan banyak cacat atau masalah yang lebih sulit untuk diselesaikan (Sricharan Vadapalli, 2018:25).
 
@@ -61,3 +63,22 @@ Beberapa tools continuous integration :
 11. Gitlab CI
 12. CircleCI
 13. Codeship
+
+
+#Version Control System
+
+[English]
+A version control system allows you to track the history of a collection of files and includes the functionality to revert the collection of files to another version. Each version capture a snapshot of the files at a certain point in time. The collection of files is usually source code for a programming laguage but a typical version control system can put any type of file under version control (Lars Vogel,2014:3).
+
+The collection of files and their complete history are stored in a repository.
+
+The process of creating different versions (snapshots) in the repository is depicted in the following graphic. Please note that this picture fits primarily to Git. Other version control systems like Concurrent Version System (CVS) don't create snapshots but store file deltas.
+
+
+[Indonesia]
+
+Version control system memungkinkan anda untuk melacak riwayat kumpulan file dan menyertakan fungsionaitas untuk mengembalikan koleksi ke versi lain. Setiap versi menangkap snapshot file pada titik waktu tertentu. Kumpulan file biasanya source code untuk bahasa pemrograman tetapi version control systemdapat menempatkan semua jenis file dibawah version control system (Lars Vogel,2014:3).
+
+Kumpulan file dan riwayat lengkapnya disimpan di repositori.
+
+Proses pembuatan berbagai versi (snapshot) dalam repositori digambarkan dalam grafik berikut.
