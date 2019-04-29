@@ -1,8 +1,7 @@
 #Continuous Integration
 
-The first step to delivering consistent and high-quality software is Continuous Integration (CI). CI is all about ensuring your software is in a deployable state at all times. That is, the code compiles and the quality of the code can be assumed to be of reasonably good quality (Sander Rossel, 2017:8).
+[English]
+Continuous Integration is a DevOps best practice wherein developers continuously integrate their code in small logical units to a common shared repository with regularity (for example, once a day). The advantage of such a process is the transparency of the code's  quality and fitness for its intended purpose. Otherwise, bulk code integration after the lapse of a fixed time period could expose many defects or integraion challenges which could be expensive to resolve.
 
-#Continuous Integration
-
-The definition of Continuous Integration (CI) is the same theory, there are many praticial flavors acknowledge by the industry. Each flavor has its own merits and challenges. Due to variations in practical meaning, we, for the context of this book, devised three acid test to check if an organization is practicing CI namely, Integration test, Continuty test and Stimulus-Respone test. Continuous Integration(CI) is also seen as the first stop in the journey towards Continuous Delivery(CD) and Continuous Deployment(CDep) (Vivek Ganesan, 2017)
-
+[Indonesia]
+Continuous Integration adalah praktik terbaik dalam penerapan konsep DevOps dimana pengembang mengintegrasikan kode mereka dalam unit logis kecil ke repository bersama dengan keteraturan (misalnya, sekali sehari). Keuntungan dari proses tersebut adalah transparansi kualitas dan kesesuaian kode untuk tujuan yang dimaksud. Kalau tidak, integrasi kode massal setelah selang waktu yang tetap dapat memaparkan banyak cacat atau masalah yang lebih sulit untuk diselesaikan (Sricharan Vadapalli, 2018:25).
