@@ -1,0 +1,8 @@
+#Continuous Integration
+
+The first step to delivering consistent and high-quality software is Continuous Integration (CI). CI is all about ensuring your software is in a deployable state at all times. That is, the code compiles and the quality of the code can be assumed to be of reasonably good quality (Sander Rossel, 2017:8).
+
+#Continuous Integration
+
+The definition of Continuous Integration (CI) is the same theory, there are many praticial flavors acknowledge by the industry. Each flavor has its own merits and challenges. Due to variations in practical meaning, we, for the context of this book, devised three acid test to check if an organization is practicing CI namely, Integration test, Continuty test and Stimulus-Respone test. Continuous Integration(CI) is also seen as the first stop in the journey towards Continuous Delivery(CD) and Continuous Deployment(CDep) (Vivek Ganesan, 2017)
+
