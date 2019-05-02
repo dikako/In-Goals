@@ -1,0 +1,43 @@
+**Set Priority, Deskripsi dan Enabled**
+=======================================================================
+@Test (priority = 1, description = "Cek login", enabled = true)
+	public void Login()
+	{
+		System.out.println("Login Sukses");
+	}
+	
+	@Test (priority = 2)
+	public void Search()
+	{
+		System.out.println("Search operation Sukses");
+	}
+	
+	@Test (priority = 3)
+	public void Logout()
+	{
+		System.out.println("Logout Sukses");
+	}
+========================================================================
+
+
+**DepensOnMethod(like priority)**
+
+========================================================================
+@Test 
+	public void Login()
+	{
+		System.out.println("Login Sukses");
+	}
+	
+	@Test (dependsOnMethods ={"Login"})
+	public void Search()
+	{
+		Assert.assertEquals("abc", "xyz");
+	}
+	
+	@Test (dependsOnMethods ={"Search"}, alwaysRun = true)
+	public void Logout()
+	{
+		System.out.println("Logout Sukses");
+	}
+========================================================================
